@@ -1,0 +1,9 @@
+pdfplumber
+reportlab
+sentence-transformers
+faiss-cpu
+google-genai
+gradio
+langchain-core
+langchain-text-splitters
+langchain-community
